@@ -3,7 +3,7 @@
 This project implements a custom sparse matrix data structure and performs addition, subtraction, and multiplication on sparse matrices.
 
 ## How to Run
-**1. Clone the Repository :
+**1. Clone the Repository** :
 Clone the project repository to your local machine:
 1. git clone <repository-url>
 2. cd sparse-matrix-dsa-assignment
@@ -12,11 +12,11 @@ Clone the project repository to your local machine:
 Navigate to the src directory where the program resides:
 1. cd dsa/sparse_matrix/code/src/
 2. Run the Program :
-Execute the program using Python:
+**3. Execute the program using Python** :
 python main.py
 Provide Input Files :
 **When prompted, provide the paths to the input files and specify the desired operation** :
-Select operation:
+**Select operation**:
    1. Addition
    2. Subtraction
    3. Multiplication
